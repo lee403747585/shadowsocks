@@ -12,7 +12,7 @@ MU_SUFFIX = 'windows.com'
 MU_REGEX = '%5m'
 
 SERVER_PUB_ADDR = '127.0.0.1'  # mujson_mgr need this to generate ssr link
-API_INTERFACE = 'glzjinmod'  # glzjinmod, modwebapi
+API_INTERFACE = 'modwebapi'  # glzjinmod, modwebapi
 
 WEBAPI_URL = 'https://12.345cxz.top'
 WEBAPI_TOKEN = 'cmxx'
